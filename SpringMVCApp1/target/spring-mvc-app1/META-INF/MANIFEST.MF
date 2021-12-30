@@ -1,5 +1,5 @@
 Manifest-Version: 1.0
 Created-By: IntelliJ IDEA
-Built-By: sto2
-Build-Jdk: Azul Zulu version 15.0.5
+Built-By: Oksana
+Build-Jdk: 15.0.2
 
